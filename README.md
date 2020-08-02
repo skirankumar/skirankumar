@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm kiran</h1>
-<h3 align="center">A passionate Security Analyst from India</h3>
+<h1 align="center">A passionate Security Analyst from India</h1>
 
 <img src="https://github.com/skirankumar/skirankumar/blob/master/Capture.PNG" >
 
